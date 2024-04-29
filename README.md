@@ -1,4 +1,4 @@
-<img align="right" height="250" src="https://i.imgur.com/Dd8UVFL.png"  />
+<h2 align="center">Hello World!!<br>I'm Amen Haj Brahim ,20 y.o. Applied AI student at PRISTINI 😺</h2>
 
 ###
 
@@ -6,7 +6,9 @@
 
 ###
 
-<h2 align="center">Hello World!!<br>I'm Amen Haj Brahim ,20 y.o. Applied AI student at PRISTINI 😺</h2>
+<div align="center">
+  <img height="250" src="https://i.imgur.com/Dd8UVFL.png"  />
+</div>
 
 ###
 
