@@ -47,7 +47,9 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.imgur.com/diVBcjS.gif"  />
+<div align="center">
+  <img height="200" src="https://i.imgur.com/diVBcjS.gif"  />
+</div>
 
 ###
 
