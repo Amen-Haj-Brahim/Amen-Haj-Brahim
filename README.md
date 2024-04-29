@@ -113,7 +113,7 @@
 
 ###
 
-<h3 align="left">Things I'm looking towards learning or improving at:<br>Game dev<br>&emsp;Unity Engine<br>&emsp;Godot Engine<br>&emsp;Unreal Engine<br>Mobile Dev<br>&emsp;Flutter<br>&emsp;Android Studio<br>Web Dev<br>&emsp;React JS<br>&emsp;Flask<br>&emsp;Django<br>&emsp;Tensorflow<br>&emsp;Pytorch</h3>
+<h3 align="left">Things I'm looking towards learning or improving at:<br>Game dev<br>&emsp;<sub>Unity Engine</sub><br>&emsp;Godot Engine<br>&emsp;Unreal Engine<br>Mobile Dev<br>&emsp;Flutter<br>&emsp;Android Studio<br>Web Dev<br>&emsp;React JS<br>&emsp;Flask<br>&emsp;Django<br>&emsp;Tensorflow<br>&emsp;Pytorch</h3>
 
 ###
 
