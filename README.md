@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left">My fields of interest include but aren't limited to:<br>-Machine Learning <br>-Deep Learning <br>-AI in general<br>-Computer Vision<br>-Game Development</h3>
+<h2 align="left">My fields of interest include but aren't limited to:<br>&emsp;<sub>Machine Learning </sub><br>&emsp;<sub>Deep Learning</sub> <br>&emsp;<sub>Computer Vision</sub><br>&emsp;<sub>Game Development</sub></h3>
 
 ###
 
@@ -113,7 +113,7 @@
 
 ###
 
-<h1 align="left">Things I'm looking towards learning or improving at:<br><br>Game dev<br>&emsp;<sub>Unity Engine</sub><br>&emsp;<sub>Godot Engine</sub><br>&emsp;<sub>Unreal Engine</sub><br><br>Mobile Dev<br>&emsp;<sub>Flutter</sub><br>&emsp;<sub>Android Studio</sub><br><br>Web Dev<br>&emsp;<sub>React JS</sub><br>&emsp;<sub>Flask</sub><br>&emsp;<sub>Django</sub><br><br>Deep Learning<br>&emsp;<sub>Tensorflow</sub><br>&emsp;<sub>Pytorch</sub></h1>
+<h2 align="left">Things I'm looking towards learning or improving at:<br><br>Game dev<br>&emsp;<sub>Unity Engine</sub><br>&emsp;<sub>Godot Engine</sub><br>&emsp;<sub>Unreal Engine</sub><br><br>Mobile Dev<br>&emsp;<sub>Flutter</sub><br>&emsp;<sub>Android Studio</sub><br><br>Web Dev<br>&emsp;<sub>React JS</sub><br>&emsp;<sub>Flask</sub><br>&emsp;<sub>Django</sub><br><br>Deep Learning<br>&emsp;<sub>Tensorflow</sub><br>&emsp;<sub>Pytorch</sub></h2>
 
 ###
 
