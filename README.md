@@ -113,11 +113,11 @@
 
 ###
 
-<h2 align="left">Things I'm looking towards learning or improving at:<br><br>Game dev<br>&emsp;<sub>Unity Engine</sub><br>&emsp;<sub>Godot Engine</sub><br>&emsp;<sub>Unreal Engine</sub><br>Mobile Dev<br>&emsp;<sub>Flutter</sub><br>&emsp;<sub>Android Studio</sub><br>Web Dev<br>&emsp;<sub>React JS</sub><br>&emsp;<sub>Flask</sub><br>&emsp;<sub>Django</sub><br><br>Deep Learning<br>&emsp;<sub>Tensorflow</sub><br>&emsp;<sub>Pytorch<br></sub></h2>
+<h2 align="left">Things I'm looking towards learning or improving at:<br><br>Game dev<br>&emsp;<sub>Unity Engine</sub><br>&emsp;<sub>Godot Engine</sub><br>&emsp;<sub>Unreal Engine</sub><br>Mobile Dev<br>&emsp;<sub>Flutter</sub><br>&emsp;<sub>Android Studio</sub><br>Web Dev<br>&emsp;<sub>React JS</sub><br>&emsp;<sub>Flask</sub><br>&emsp;<sub>Django</sub><br><br>Deep Learning<br>&emsp;<sub>Tensorflow</sub><br>&emsp;<sub>Pytorch</sub></h2>
 
 ###
 
-<h1 align="center">Stalk me on spotify</h1>
+<br><h1 align="center">Stalk me on spotify</h1>
 
 ###
 
