@@ -1,14 +1,18 @@
-<h2 align="center">Hello World!!<br>I'm Amen Haj Brahim ,20 y.o. Applied AI student at PRISTINI 😺</h2>
-
-###
-
-<img align="left" height="300" src="https://i.imgur.com/xAladhV.jpeg"  />
+<div align="center">
+  <img height="200" src="https://i.imgur.com/Dd8UVFL.png"  />
+</div>
 
 ###
 
 <div align="center">
-  <img height="250" src="https://i.imgur.com/Dd8UVFL.png"  />
+  <img height="300" src="https://i.imgur.com/xAladhV.jpeg"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">Hello World!!<br>I'm Amen Haj Brahim ,20 y.o. Applied AI student at PRISTINI 😺</h2>
 
 ###
 
@@ -128,9 +132,5 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=f8l13ewlc6kvc5jvnm2h6v3dk&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Amen-Haj-Brahim/Amen-Haj-Brahim/output/snake.svg" alt="Snake animation" />
 
 ###
