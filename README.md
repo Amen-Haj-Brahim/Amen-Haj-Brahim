@@ -117,7 +117,7 @@
 
 ###
 
-<h1 align="center">Stalk me on spotify</h1>
+<h1 align="center">Stalk me on Spotify</h1>
 
 ###
 
