@@ -78,6 +78,8 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
