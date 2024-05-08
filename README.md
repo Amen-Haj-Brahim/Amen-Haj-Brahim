@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="left">My fields of interest include but aren't limited to:<br><br>&emsp;<sub>Machine Learning </sub><br>&emsp;<sub>Deep Learning</sub> <br>&emsp;<sub>Computer Vision</sub><br>&emsp;<sub>Game Development</sub><br></h3>
+<h2 align="left">My fields of interest include but aren't limited to:<br>&emsp;<sub>Machine Learning </sub><br>&emsp;<sub>Deep Learning</sub> <br>&emsp;<sub>Computer Vision</sub><br>&emsp;<sub>Game Development</sub><br></h3>
 
 ###
 
