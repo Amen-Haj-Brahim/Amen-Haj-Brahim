@@ -11,22 +11,10 @@
 ###
 
 <br clear="both">
+<h1 align="center">About me</h1>
 
 <h2 align="center">Hello World!!<br>I'm Amen Haj Brahim ,20 y.o. Applied AI student at PRISTINI 😺</h2>
 
-###
-
-<br clear="both">
-
-
-
-###
-
-<br clear="both">
-
-<h1 align="center">About me</h1>
-
-###
 
 <h2 align="left">My fields of interest include but aren't limited to:<br>&emsp;<sub>Machine Learning </sub><br>&emsp;<sub>Deep Learning</sub> <br>&emsp;<sub>Computer Vision</sub><br>&emsp;<sub>Game Development</sub><br></h3>
 
@@ -41,6 +29,8 @@
 ###
 
 <br clear="both">
+
+##
 
 <h1 align="center">Tools Used</h1>
 
@@ -94,13 +84,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-###
-
-<h2 align="left">Things I'm looking towards learning or improving at:<br><br>Game dev<br>&emsp;<sub>Unity Engine</sub><br>&emsp;<sub>Godot Engine</sub><br>&emsp;<sub>Unreal Engine</sub><br><br>Mobile Dev<br>&emsp;<sub>Flutter</sub><br>&emsp;<sub>Android Studio</sub><br><br>Web Dev<br>&emsp;<sub>React JS</sub><br>&emsp;<sub>Flask</sub><br>&emsp;<sub>Django</sub><br><br>Deep Learning<br>&emsp;<sub>Tensorflow</sub><br>&emsp;<sub>Pytorch</sub></h2>
-
-###
-
-
 <h1 align="center">My Contacts</h1>
 
 ###
@@ -118,13 +101,12 @@
   <a href="https://www.instagram.com/amen.hajbrahimus/?hl=en" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+
+##
+
 </div>
 
-###
-
 <h1 align="center">Stalk me on Spotify</h1>
-
-###
 
 <div align="center">
   <img height="200" src="https://i.imgur.com/qhYqB3n.gif"  />
