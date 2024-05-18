@@ -10,9 +10,6 @@
 
 ###
 
-<br clear="both">
-<h1 align="center">About me</h1>
-
 <h2 align="center">Hello World!!<br>I'm Amen Haj Brahim ,20 y.o. Applied AI student at PRISTINI 😺</h2>
 
 
