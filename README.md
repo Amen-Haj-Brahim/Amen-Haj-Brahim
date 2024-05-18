@@ -18,24 +18,7 @@
 
 <br clear="both">
 
-<h1 align="center">My Contacts</h1>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/amen-haj-brahim-1a5882267/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mo3m_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.facebook.com/amenhajbrahim/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/amen.hajbrahimus/?hl=en" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
 ###
 
@@ -130,6 +113,25 @@
 <div align="center">
   <a href="https://open.spotify.com/user/f8l13ewlc6kvc5jvnm2h6v3dk">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=f8l13ewlc6kvc5jvnm2h6v3dk&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+<h1 align="center">My Contacts</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/amen-haj-brahim-1a5882267/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mo3m_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/amenhajbrahim/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/amen.hajbrahimus/?hl=en" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
