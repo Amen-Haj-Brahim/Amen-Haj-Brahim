@@ -100,21 +100,6 @@
 
 ###
 
-<h1 align="center">Stalk me on Spotify</h1>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgur.com/qhYqB3n.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/f8l13ewlc6kvc5jvnm2h6v3dk">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=f8l13ewlc6kvc5jvnm2h6v3dk&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 <h1 align="center">My Contacts</h1>
 
@@ -132,6 +117,22 @@
   </a>
   <a href="https://www.instagram.com/amen.hajbrahimus/?hl=en" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+<h1 align="center">Stalk me on Spotify</h1>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgur.com/qhYqB3n.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/f8l13ewlc6kvc5jvnm2h6v3dk">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=f8l13ewlc6kvc5jvnm2h6v3dk&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
