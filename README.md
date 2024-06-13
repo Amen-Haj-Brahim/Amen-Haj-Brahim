@@ -1,37 +1,18 @@
 <div align="center">
   <img height="200" src="https://i.imgur.com/Dd8UVFL.png"  />
+  <img height="175" src="https://i.imgur.com/xAladhV.jpeg"  />
 </div>
-
-###
-
-<div align="center">
-  <img height="300" src="https://i.imgur.com/xAladhV.jpeg"  />
-</div>
-
-###
 
 <h2 align="center">Hello World!!<br>I'm Amen Haj Brahim ,20 y.o. Applied AI student at PRISTINI 😺</h2>
 
-
-<h2 align="left">My fields of interest include but aren't limited to:<br>&emsp;<sub>Machine Learning </sub><br>&emsp;<sub>Deep Learning</sub> <br>&emsp;<sub>Computer Vision</sub><br>&emsp;<sub>Game Development</sub><br></h3>
-
-###
-
-<br clear="both">
+<h2 align="center">My fields of interest include but aren't limited to:<br>&emsp;<sub>Machine Learning </sub><br>&emsp;<sub>Deep Learning</sub> <br>&emsp;<sub>Computer Vision</sub><br>&emsp;<sub>Game Development</sub><br><sub>Implementing all of the above in Web, Desktop and Mobile apps </sub>
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/diVBcjS.gif"  />
+  <img height="150" src="https://i.imgur.com/diVBcjS.gif"  />
 </div>
-
-###
-
-<br clear="both">
-
-##
+</h3>
 
 <h1 align="center">Tools Used</h1>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -74,18 +55,20 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img src="https://skillicons.dev/icons?i=oracle" height="40" alt="oracle logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
 
-<h1 align="center">My Contacts</h1>
+##
 
-###
+<h1 align="center">My Contacts</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amen-haj-brahim-1a5882267/" target="_blank">
@@ -101,17 +84,15 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 
-##
-
 </div>
+
+##
 
 <h1 align="center">Stalk me on Spotify</h1>
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/qhYqB3n.gif"  />
+  <img height="100" src="https://i.imgur.com/qhYqB3n.gif"  />
 </div>
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/f8l13ewlc6kvc5jvnm2h6v3dk">
