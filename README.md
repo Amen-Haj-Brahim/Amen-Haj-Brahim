@@ -86,18 +86,4 @@
 
 </div>
 
-##
-
-<h1 align="center">Stalk me on Spotify</h1>
-
-<div align="center">
-  <img height="100" src="https://i.imgur.com/qhYqB3n.gif"  />
-</div>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/f8l13ewlc6kvc5jvnm2h6v3dk">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=f8l13ewlc6kvc5jvnm2h6v3dk&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
