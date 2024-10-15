@@ -1,15 +1,12 @@
 <div align="center">
   <img height="200" src="https://i.imgur.com/Dd8UVFL.png"  />
   <img height="175" src="https://i.imgur.com/xAladhV.jpeg"  />
+  <img height="150" src="https://i.imgur.com/diVBcjS.gif"  />
 </div>
 
 <h2 align="center">Hello World!!<br>I'm Amen Haj Brahim ,21 y.o. Applied AI student at PRISTINI 😺</h2>
 
 <h2 align="center">My fields of interest include but aren't limited to:<br>&emsp;<sub>Machine Learning </sub><br>&emsp;<sub>Deep Learning</sub> <br>&emsp;<sub>Computer Vision</sub><br>&emsp;<sub>Game Development</sub><br><sub>Implementing all of the above in Web, Desktop and Mobile apps </sub>
-
-<div align="center">
-  <img height="150" src="https://i.imgur.com/diVBcjS.gif"  />
-</div>
 </h3>
 
 <h1 align="center">Tools Used</h1>
@@ -68,7 +65,7 @@
 
 ##
 
-<h1 align="center">My Contacts</h1>
+<h1 align="center">Contact me at</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amen-haj-brahim-1a5882267/" target="_blank">
