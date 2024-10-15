@@ -62,9 +62,9 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
-<h1 align="center">Contact me at</h1>
 
 <div align="center">
+  <h1 align="center">Contact me at</h1>
   <a href="https://www.linkedin.com/in/amen-haj-brahim-1a5882267/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
