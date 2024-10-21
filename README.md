@@ -8,6 +8,7 @@
 
 <h4 align="center">fields of interest include but aren't limited to:<br>&emsp;<sub>Machine Learning </sub><br>&emsp;<sub>Deep Learning</sub> <br>&emsp;<sub>Computer Vision</sub><br>&emsp;<sub>Game Development</sub><br><sub>Implementing all of the above in Web, Desktop and Mobile apps </sub>
 </h4>
+<hr>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="10" />
