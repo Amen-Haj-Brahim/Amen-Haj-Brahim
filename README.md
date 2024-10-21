@@ -4,13 +4,10 @@
   <img height="100" src="https://i.imgur.com/diVBcjS.gif"  />
 </div>
 
-<h3 align="center">Hello World!!<br>I'm Amen Haj Brahim ,21 y.o. Applied AI student at PRISTINI 😺</h3>
+<h3 align="center">Amen Haj Brahim ,21 y.o. Applied AI student at PRISTINI </h3>
 
-<h4 align="center">My fields of interest include but aren't limited to:<br>&emsp;<sub>Machine Learning </sub><br>&emsp;<sub>Deep Learning</sub> <br>&emsp;<sub>Computer Vision</sub><br>&emsp;<sub>Game Development</sub><br><sub>Implementing all of the above in Web, Desktop and Mobile apps </sub>
+<h4 align="center">fields of interest include but aren't limited to:<br>&emsp;<sub>Machine Learning </sub><br>&emsp;<sub>Deep Learning</sub> <br>&emsp;<sub>Computer Vision</sub><br>&emsp;<sub>Game Development</sub><br><sub>Implementing all of the above in Web, Desktop and Mobile apps </sub>
 </h4>
-
-<h3 align="center">Tools Used</h3>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="10" />
@@ -62,9 +59,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
-
 <div align="center">
-  <h3 align="center">Contact me at</h3>
   <a href="https://www.linkedin.com/in/amen-haj-brahim-1a5882267/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
