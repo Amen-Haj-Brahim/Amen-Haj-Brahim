@@ -1,8 +1,4 @@
-<div align="center">
-  <img height="100" src="https://i.imgur.com/Dd8UVFL.png"  />
-  <img height="100" src="https://i.imgur.com/xAladhV.jpeg"  />
-  <img height="100" src="https://i.imgur.com/diVBcjS.gif"  />
-</div>
+
 
 <h3 align="center">Amen Haj Brahim ,21 y.o. Applied AI student at PRISTINI </h3>
 
