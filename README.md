@@ -2,7 +2,7 @@
 
 - Amen Haj Brahim ,21 y.o. Applied AI student at PRISTINI
 
-- fields of interest include but aren't limited to:<br><sub>Machine Learning </sub><br>&emsp;<sub> * Deep Learning</sub> <br>&emsp;<sub>Computer Vision</sub><br>&emsp;<sub>Game Development</sub><br><sub>Implementing all of the above in Web, Desktop and Mobile apps </sub>
+- fields of interest include but aren't limited to:<br><sub>Machine Learning </sub><br><sub>Deep Learning</sub> <br><sub>Computer Vision</sub><br><sub>Game Development</sub><br><sub>Implementing all of the above in Web, Desktop and Mobile apps </sub>
 <hr>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
